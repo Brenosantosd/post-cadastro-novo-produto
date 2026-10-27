@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/post-cadastro-novo-produto/static/css/main.d5265ab0.css",
+    "main.js": "/post-cadastro-novo-produto/static/js/main.32ed3cdd.js",
+    "index.html": "/post-cadastro-novo-produto/index.html",
+    "main.d5265ab0.css.map": "/post-cadastro-novo-produto/static/css/main.d5265ab0.css.map",
+    "main.32ed3cdd.js.map": "/post-cadastro-novo-produto/static/js/main.32ed3cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5265ab0.css",
+    "static/js/main.32ed3cdd.js"
+  ]
+}
